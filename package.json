@@ -1,0 +1,24 @@
+{
+  "name": "jsml-core",
+  "version": "0.0.1",
+  "description": "JSML; (java script markup languge). HTML alternative with JSON. for HOMA framwork.part of Quantum.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node ./test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/amaquantum/jsml-core"
+  },
+  "keywords": [
+    "html",
+    "js",
+    "json",
+    "jsml",
+    "quantum",
+    "jsml-core",
+    "homa"
+  ],
+  "author": "AmACoder",
+  "license": "MIT"
+}
